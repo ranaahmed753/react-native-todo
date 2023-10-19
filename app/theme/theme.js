@@ -31,10 +31,10 @@ export const SIZES = {
     body4: 14,
     body5: 12,
     body6: 10,
-    body20: 20,
-    body21: 18,
-    body40: 40,
-    body141: 141
+    body20: 29,
+    body21: 187,
+    body40: 46,
+    body141: 142
 }
 
 export const iconSize = (size = 20) => ({width: size, height: size});
